@@ -6,10 +6,6 @@ Este projeto é um currículo online desenvolvido com HTML, CSS e JavaScript. El
 
 -  [Visão Geral](#visão-geral)
 -  [Tecnologias Utilizadas](#tecnologias-utilizadas)
--  [Estrutura do Projeto](#estrutura-do-projeto)
--  [Como Rodar o Projeto](#como-rodar-o-projeto)
--  [Contribuição](#contribuição)
--  [Licença](#licença)
 
 ## Visão Geral
 
